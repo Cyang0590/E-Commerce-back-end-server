@@ -14,6 +14,10 @@
 
     User can use this application to modify and change information such as the products detail for the E-commerce site
 
+## Walkthrough Video URL
+
+    https://drive.google.com/file/d/1lpafXniJOjMfedEBdBpWs7YQCw1M0x8r/view
+
 ## Credits
 
     n/a
